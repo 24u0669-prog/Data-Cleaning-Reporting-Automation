@@ -1,0 +1,12 @@
+Data Cleaning & Reporting Automation Summary
+=========================================
+Total Orders: 25
+Total Sales: ₹14,560.00
+Average Order Value: ₹582.40
+
+Regional sales total:
+- Central: ₹550.00
+- East: ₹1,285.00
+- North: ₹5,375.00
+- South: ₹3,210.00
+- West: ₹4,140.00
