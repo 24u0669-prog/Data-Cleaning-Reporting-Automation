@@ -35,4 +35,6 @@ The script will:
 3. Save the cleaned output
 4. Generate an Excel report, Power BI summary, and a browser dashboard
 
-This helps understand data preprocessing, automation, and reporting efficiency in a realistic workflow.
+## Author
+**Soundarya Umesh Barigidad**
+Information Science Engineering Student
